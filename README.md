@@ -38,14 +38,6 @@ A modern full-stack quiz platform to create, attempt, and compete in quizzes wit
 - Git
 - Figma
 
----
-
-## 📂 Project Structure
-QuizMaster/
-│
-├── frontend/ # React + Vite + TypeScript
-├── backend/ # Node.js + Express + TypeScript
-└── README.md
 
 
 ---
